@@ -1,1 +1,19 @@
-packages.json
+{
+  "version": "1.0",
+  "last_updated": "2025-12-28",
+  "packages": [
+    {
+      "id": "package1",
+      "name": "DEV-İNSTA-ARSİVİ",
+      "description": "DEV İNSTAGRAM ARŞİVİ- PART 1",
+      "author": "razzycode",
+      "file_name": "DEV-İNSTA-ARSİVİ.ayipbro",
+      "file_size": 508688455,
+      "md5": "f184f1291c8b402f69034cce9bf1e93a",
+      "sha256": "1061e946d4c0b9f78e36019445c4d84c43c1fc0d5588f67771b7fb3e3b81b83c",
+      "thumbnail_url": "https://raw.githubusercontent.com/GameMenu/ayipbro/refs/heads/main/logo.png",
+      "download_url": "https://pixeldrain.com/api/file/Cscu4wjF?download",
+      "created_date": "2025-12-28"
+    }
+  ]
+}
